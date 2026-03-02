@@ -1,9 +1,9 @@
 # Ultimate_Tic-Tac-Toe_project
 Built a Pokémon-themed Ultimate Tic-Tac-Toe game in Python (OOP + Tkinter), where each move is won through turn-based Pokémon battles. Implemented and optimized a Minimax AI (with pruning/memoization) for solo play, balancing grid strategy, combat logic, and real-time GUI performance.
 
-# Ultimate_Tic-Tac-Toe_project
+# Projet_Ultimate_Tic-Tac-Toe
+Développement d’un jeu Ultimate Tic-Tac-Toe sur le thème Pokémon en Python (POO + Tkinter), où chaque coup se gagne via un combat Pokémon au tour par tour. Implémentation et optimisation d’une IA Minimax (avec élagage/mémoïsation) pour le mode solo, en conciliant stratégie de grille, logique de combat et performances de l’interface graphique en temps réel.
 
-Built a Pokémon-themed Ultimate Tic-Tac-Toe game in Python (OOP + Tkinter), where each move is won through turn-based Pokémon battles. Implemented and optimized a Minimax AI (with pruning/memoization) for solo play, balancing grid strategy, combat logic, and real-time GUI performance.
 
 ### EN
 
